@@ -1,4 +1,4 @@
-³const loginForm = document.getElementById("login-form");
+const loginForm = document.getElementById("login-form");
 const loginButton = document.getElementById("login-form-submit");
 const loginErrorMsg = document.getElementById("login-error-msg");
 
